@@ -8,7 +8,7 @@ configuration:
   enablePopovers: true
   analytics: null
   locale: zh-CN
-  baseUrl: 3085487039.github.io/notes
+  baseUrl: 3085487039.github.io/-
   ignorePatterns:
     - private
     - templates
@@ -232,7 +232,7 @@ plugins:
     enabled: true
     options:
       links:
-        GitHub: https://github.com/3085487039/notes
+        GitHub: https://github.com/3085487039/-
         Obsidian: https://obsidian.md
     layout:
       position: footer
